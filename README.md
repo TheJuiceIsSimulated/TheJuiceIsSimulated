@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheJuiceIsSimulated
-- 👀 I’m interested in Web3 (blockchain, cryptocurrencies, NFTs, etc.), high-performance exotic vehicles, military paraphernalia, NFL football (Go Eagles!)
+- 👀 I’m interested in Web3 (blockchain, cryptocurrencies, NFTs, etc.), high-performance exotic vehicles, military paraphernalia, & NFL football (Go Eagles!)
 - 🌱 I’m currently learning Cadence on FLOW blockchain
 - 💞️ I’m looking to collaborate on: TBA
 - 📫 How to reach me: bread#1202 on Discord
